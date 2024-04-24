@@ -6,11 +6,10 @@ Use it as a starting place for learning how to use Keystone.
 
 ## Instructions
 
-To run this project, clone the Keystone repository locally, run `pnpm install` at the root of the repository then navigate to this directory and run:
+To run this project, clone the Keystone repository locally, 
 
-```shell
-pnpm dev
-```
+first go to the root of the repository and run `pnpm install`
+then navigate to this directory and run:  `pnpm dev` 
 
 This will start Keystone’s Admin UI at [localhost:3000](http://localhost:3000), where you can add items to an empty database.
 
